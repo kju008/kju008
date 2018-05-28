@@ -1,0 +1,25 @@
+{
+  "name": "ibks_club",
+  "version": "0.1.0",
+  "description": "ibks_club",
+  "main": "hello-world-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "fs-extra": "^6.0.0",
+    "tedious": "^2.3.1"
+  }
+}
